@@ -1,0 +1,9 @@
+/*面包屑下的间隔*/
+.el-breadcrumb{
+  margin-bottom: 15px;
+}
+
+.body{
+  margin: 0;
+  height: 100%;
+}
